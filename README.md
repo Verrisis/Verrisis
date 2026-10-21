@@ -1,2 +1,5 @@
-Hi there, I'm Dmytro! 👋
-I'm a Computer Science student in Wrocław. I'm currently exploring Python, Linux, and basic low-level programming. I really enjoy figuring out how things work under the hood, whether it's assembling PC hardware or writing scripts. Check out my repositories to see what I've been learning lately!
+### Hi, I'm Dmytro. 👋
+
+CS student based in Wrocław. Mostly writing Python, debugging systems. Certified Arch Linux user (yes, btw). Outside of coding, I spend my time troubleshooting PC hardware and tweaking Linux/Win setups.
+
+Take a look at my pinned projects below 👇
